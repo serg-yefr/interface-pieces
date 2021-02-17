@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+h1::after {
+  content: "\21E9";
+}
+#content {
+  height: 100vh;
+  font-size: 20px;
+}
+span {
+  font-size: 48px;
+}
